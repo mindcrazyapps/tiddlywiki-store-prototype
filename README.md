@@ -1,5 +1,5 @@
 # tiddlywiki-store-prototype
-prototype to plugin: tiddlywiki-store
+prototype to the plugin: tiddlywiki-store
 
 ## screenshot
 
